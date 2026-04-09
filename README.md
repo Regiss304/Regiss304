@@ -1,3 +1,4 @@
+<div align="center">
 ## Olá! Eu sou Gabriel Regis Silva 👋
 
 Sou estudante de desenvolvimento de software, focado em evoluir minha base em lógica de programação e desenvolvimento web.
@@ -10,7 +11,5 @@ Sou estudante de desenvolvimento de software, focado em evoluir minha base em l�
 - 📫 Como falar comigo: pelo GitHub
 - ⚡ Curiosidade: gosto de aprender entendendo a lógica por trás do código, não apenas copiando soluções
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Regiss304&theme=midnight-purple&hide_border=false&locale=pt_BR&short_numbers=false)](https://git.io/streak-stats)
-
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Regiss304&theme=midnight-purple&hide_border=falso&locale=pt_BR&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+</div>
