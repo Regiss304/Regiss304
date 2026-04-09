@@ -1,15 +1,72 @@
 <div align="center">
-## Olá! Eu sou Gabriel Regis Silva 👋
 
-Sou estudante de desenvolvimento de software, focado em evoluir minha base em lógica de programação e desenvolvimento web.
+# 🚀 Gabriel Regis Silva | Desenvolvedor em Formação
 
-- 🔭 Atualmente estou trabalhando no meu crescimento como desenvolvedor e na construção do meu portfólio
-- 🌱 Atualmente estou aprendendo lógica de programação, VisualG, Python, HTML, CSS, JavaScript, Git e GitHub
-- 👯 Estou procurando colaborar em projetos de tecnologia, acessibilidade e desenvolvimento web
-- 🤔 Estou procurando ajuda para melhorar minhas práticas de programação e ganhar experiência com projetos reais
-- 💬 Pergunte-me sobre lógica de programação, VisualG, estudos em programação e desenvolvimento web
-- 📫 Como falar comigo: pelo GitHub
-- ⚡ Curiosidade: gosto de aprender entendendo a lógica por trás do código, não apenas copiando soluções
+**Estudante de desenvolvimento de software com foco em lógica de programação, Python e desenvolvimento web.**
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Regiss304&theme=midnight-purple&hide_border=falso&locale=pt_BR&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+<p>
+  <img src="https://img.shields.io/github/followers/Regiss304?style=for-the-badge&logo=github&label=Seguidores&color=7c3aed" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Regiss304?style=for-the-badge&logo=github&label=Estrelas&color=facc15" alt="Estrelas" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Regiss304&theme=midnight-purple&hide_border=false&locale=pt_BR&short_numbers=false" alt="GitHub Streak" />
+</p>
+
 </div>
+
+---
+
+## 💡 Sobre mim
+
+Sou estudante de programação com aprendizado autônomo e, atualmente, curso **Full Stack em Python pelo Instituto PROA**. Tenho grande interesse por tecnologia, desenvolvimento de software e pela criação de experiências digitais modernas, sofisticadas e funcionais.
+
+Estou construindo minha trajetória como **desenvolvedor Full Stack**, com foco na criação de interfaces responsivas e intuitivas **(UI/UX)**, além do desenvolvimento de sistemas sólidos no **back-end**.
+
+Tenho conhecimento prático em **HTML, CSS, JavaScript, React, Python, PHP, MySQL e Linux**, utilizando também ferramentas como **Git, GitHub e Figma** para desenvolver projetos, organizar versionamento e estruturar soluções completas.
+
+🚀 Meu objetivo é evoluir continuamente, transformar conhecimento em prática e contribuir para o desenvolvimento de aplicações modernas, performáticas, escaláveis e centradas no usuário.
+
+---
+## 🛠 Tecnologias em estudo
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- Lógica de programação com VisualG
+- Python
+- HTML, CSS e JavaScript
+- Git e GitHub
+- Construção de portfólio e projetos práticos
+
+---
+
+## 🤝 Vamos nos conectar
+
+- 💬 Você pode acompanhar minha evolução e meus projetos aqui no GitHub
+- 📌 Estou buscando crescer na área de tecnologia com consistência, prática e propósito
