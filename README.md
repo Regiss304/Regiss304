@@ -5,8 +5,8 @@
 **Estudante de desenvolvimento de software com foco em lógica de programação, Python e desenvolvimento web.**
 
 <p>
-  <img src="https://img.shields.io/github/followers/Regiss304?style=for-the-badge&logo=github&label=Seguidores&color=7c3aed" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/Regiss304?style=for-the-badge&logo=github&label=Estrelas&color=facc15" alt="Estrelas" />
+  <img src="https://img.shields.io/github/followers/gabriel-r-silvaa?style=for-the-badge&logo=github&label=Seguidores&color=7c3aed" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/gabriel-r-silvaa?style=for-the-badge&logo=github&label=Estrelas&color=facc15" alt="Estrelas" />
 </p>
 
 <p>
